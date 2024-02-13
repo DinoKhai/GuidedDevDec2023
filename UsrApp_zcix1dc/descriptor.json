@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5deb2505-ee4a-4203-9009-73a1824983d2",
+    "Name": "UsrApp_zcix1dc",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_zcix1dc.csproj",
+    "DependsOn": []
+  }
+}
